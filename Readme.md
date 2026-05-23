@@ -23,7 +23,7 @@ The dashboard is designed to help businesses monitor KPIs, identify high-perform
 📌 Main Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="https://github.com/Aryan2347-ask/Sales_Excel_Dashboard/blob/main/Images/Sales_dashboard.png?raw=true" width="900">
 </p>
 
 ---
@@ -157,5 +157,6 @@ The dataset contains:
 👨‍💻 Author
 
 **Aryan Khanorkar**
+
 ECE Engineer | Data Analytics Enthusiast | Dashboard Developer
 
